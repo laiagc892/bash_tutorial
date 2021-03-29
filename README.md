@@ -94,6 +94,8 @@ program:
 source program.sh
 ```
 
+If you are a MAC user, you may need this [link](https://stackoverflow.com/questions/733824/how-to-run-a-shell-script-on-a-unix-console-or-mac-terminal).
+
 ### 1.4. Find out how big a file is
 
 Go to the folder `exercise_1/directoryC/`. To find **the fourth
