@@ -156,7 +156,7 @@ nano <filename>
 
 Create a text file with the characters you have found so far.
 
-The **seventh character** is the one you need to press to save a file in
+The **sixth character** is the one you need to press to save a file in
 `nano`.
 
 <div class="admonition hint">
@@ -181,7 +181,7 @@ Please go to the directory exercise\_3.
 
 To find **characters seven and eight**, you need to create a
 subdirectory named *solution* in `exercise_3/` and copy the files from
-the `code1/` and `code2/` folders into it.
+the `part1/` and `part2/` folders into it.
 
 For creating directories, use the command:
 
